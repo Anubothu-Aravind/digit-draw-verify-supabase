@@ -131,40 +131,6 @@ Create these tables manually from Supabase UI or using SQL editor:
 * 🌩️ Supabase (DB + Auth)
 * 🤖 TensorFlow\.js / ONNX / model in `utils/modelUtils.ts` (customizable)
 
-## Screenshots
-
-Here’s a glimpse of the app in action:
-
-<br>
-
-![image](https://github.com/user-attachments/assets/ae2afd6c-efd9-4da0-a35d-1d3bb2ff57cd)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/9f1d69be-9437-47d7-ac1e-ecaee441a341)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/d1811860-7ad6-4e53-9387-4376b0ed1515)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/e1d7f027-5b58-4097-a3fa-2bbe6deb5749)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/cee0df5f-8886-435f-8834-8c8797786c08)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/8b1d02a1-cd70-4d4c-b20b-b697cb0d174a)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/c69f0dba-a986-4f20-90a9-8dbb911add4d)
-
-<br>
-
 ## Deployment
 
 This app can be deployed easily on [Vercel](https://vercel.com/):
